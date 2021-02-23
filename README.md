@@ -9,12 +9,6 @@
 <div align="center">  
     <p align="center">
         <img width="500px" src="/to-readme/gym.png">
-    </p>
-</div>
-
-<h1>Image section sobre gym</h1>
-<div align="center">  
-    <p align="center">
         <img width="500px" src="/to-readme/img.png">
     </p>
 </div>

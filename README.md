@@ -8,7 +8,7 @@
 <h1>Image section sobre gym</h1>
 <div align="center">  
     <p align="center">
-        <img width="500px" src="/to-readme/gym.png">
+        <img width="500px" src="/to-readme/image-gym.png">
         <img width="500px" src="/to-readme/img.png">
     </p>
 </div>
